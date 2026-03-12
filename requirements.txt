@@ -2,7 +2,8 @@ streamlit
 pandas
 plotly
 numpy
-openpyxl
 sqlalchemy
-psycopg2-binary
 pymysql
+cryptography
+python-dotenv
+openpyxl
