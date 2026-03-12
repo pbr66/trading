@@ -8,7 +8,7 @@ import streamlit.components.v1 as components
 
 # --- 1. SETUP ---
 st.set_page_config(page_title="Trading Analysis", layout="wide")
-st.title("Situational Analysis & Breakout Dashboard")
+st.title("Situational Analysis ")
 
 # --- 2. SIDEBAR TOP: Asset & Timeframe ---
 st.sidebar.header("Settings")
