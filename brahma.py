@@ -28,7 +28,7 @@ if st.sidebar.button("🔄 Clear All Filters", use_container_width=True):
 assets = {
     'NASDAQ': 'nasdaq', 
     'S&P 500': 'sp500',
-    'Dow Jones': 'dow_jones', 
+    'Dow Jones': 'dow', 
     'DAX': 'dax', 
     'FTSE': 'ftse'
 }
